@@ -1,7 +1,19 @@
-# Awesome Project Build with TypeORM
+## Description
 
-Steps to run this project:
+-   API created in the TypeORM course. This API has all relationship methods, how to configure TypeORM migrations, its Entities and its Repositories.
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+## Instalation
+
+-   Run:
+
+    ```shell script
+    npm install
+    ```
+
+-   Run API:
+
+    ```shell script
+    npm run dev:serve
+    ```
+
+-   API will run on port [localhost:3333](http://localhost:3333)
